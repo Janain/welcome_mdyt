@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">牡丹逸庭</string>
+    <string name="title_home">首页</string>
+    <string name="title_dashboard">知识</string>
+    <string name="title_notifications">我的</string>
+    <string name="login_regist">登录/注册</string>
+    <string name="sign_up">注册</string>
+    <string name="welcome_title">欢迎来到牡丹逸庭</string>
+</resources>
